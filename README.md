@@ -31,7 +31,7 @@ In Scrum Projects, Estimation is done by the entire team during Sprint Planning 
 --- 
  
 
- #### 2.1 Estimation based on story points in practice 
+ #### 2.1 _Estimation based on story points in practice_
 
 1. Team meeting. 
 
@@ -45,7 +45,7 @@ In Scrum Projects, Estimation is done by the entire team during Sprint Planning 
 
 --- 
 
-#### 2.2  Things to avoid during task estimation. 
+#### 2.2  _Things to avoid during task estimation_ 
 
 * Different understanding of story points within the team can lead to over or under estimations, make sure the story points are clear and concise. 
 
@@ -58,7 +58,7 @@ In Scrum Projects, Estimation is done by the entire team during Sprint Planning 
 
 --- 
 
-#### 2.3 Summary 
+#### 2.3 _Summary_ 
 
 Test yourself when you start estimating, estimate the work first yourself before asking team members to provide estimates, then discuss how close you were and how each team member came up with their estimate. The more practice you get the more accurate it will become. You should be able to work out early if task estimations is a strenght or weakness of yours and the team can plan accordingly. Watch out for the issues mentioned above when putting together timeframes for a project.
 
@@ -410,6 +410,23 @@ ___
  #### 4.3 _Summary_
 The code review is extremely important part of the whole software development process. Therefore, whole team must make enough effort to properly plan time needed for process. Mistakes are bound to happen to those who work in developing code. Code review is essentially a risk management, therefore it should be treated as such.
 Feedback is important and it is important that developers can support each other when reviewing or being reviewed to ensure the code is up to standard and becoming a strong as a development team.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
