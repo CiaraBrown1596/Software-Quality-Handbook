@@ -2,7 +2,27 @@
 
 ## A useful guide on best practices when writing and reviewing code
 ___
-### Table of contents
+  # Table of contents
+- [Employee handbook for Software Quality control.](#employee-handbook-for-software-quality-control)
+  - [A useful guide on best practices when writing and reviewing code](#a-useful-guide-on-best-practices-when-writing-and-reviewing-code)
+- [Table of contents](#table-of-contents)
+    - [1.0 Introduction](#10-introduction)
+    - [2.0 Task Estimation in scrum](#20-task-estimation-in-scrum)
+      - [2.1 _Estimation based on story points in practice_](#21-estimation-based-on-story-points-in-practice)
+      - [2.2  _Things to avoid during task estimation_](#22-things-to-avoid-during-task-estimation)
+      - [2.3 _Summary_](#23-summary)
+    - [3.0 Coding Standards](#30-coding-standards)
+      - [3.1 _Common Aspects of a Coding Standard_:](#31-common-aspects-of-a-coding-standard)
+      - [3.2 _Naming Conventions_](#32-naming-conventions)
+      - [3.3 _Formatting and Indentation_](#33-formatting-and-indentation)
+      - [3.4 _Comments and Documentations_](#34-comments-and-documentations)
+      - [3.5 _Classes, Functions and Interfaces_](#35-classes-functions-and-interfaces)
+      - [3.6 _Pointer and Reference Usage_](#36-pointer-and-reference-usage)
+      - [3.7 _Testing_](#37-testing)
+    - [4.0 Code Review](#40-code-review)
+      - [4.1 _Tips for effective Code Review_](#41-tips-for-effective-code-review)
+      - [4.2 _Unhelpful Practices_](#42-unhelpful-practices)
+      - [4.3 _Summary_](#43-summary)
 
 
 
@@ -410,24 +430,6 @@ ___
  #### 4.3 _Summary_
 The code review is extremely important part of the whole software development process. Therefore, whole team must make enough effort to properly plan time needed for process. Mistakes are bound to happen to those who work in developing code. Code review is essentially a risk management, therefore it should be treated as such.
 Feedback is important and it is important that developers can support each other when reviewing or being reviewed to ensure the code is up to standard and becoming a strong as a development team.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
